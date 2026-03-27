@@ -1,0 +1,9 @@
+{
+  "name": "dao-event-indexer",
+  "version": "1.0.0",
+  "description": "Blockchain event parsing for Governor Alpha/Bravo",
+  "dependencies": {
+    "viem": "^2.7.9",
+    "dotenv": "^16.3.1"
+  }
+}
